@@ -5,4 +5,4 @@ $note2 = 15;
 echo ($note + $note2) / 2;
 ?>
 
-Comment ça va ?
+Comment ça va ? Oui cool
